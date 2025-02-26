@@ -1,6 +1,6 @@
 # Addition: Adds numbers together
 addition = 5 + 5
-print(f"Addition Result:{addition}")
+print("Addition Result:", addition)
 
 # Subtraction: Subtracts the 2nd number from the 1st number
 subtraction = 5 - 5
@@ -24,6 +24,7 @@ print("Modulus Result:", modulus)
 
 # Square Root: Calculates the square root of a number 
 import math
+# "import math" is required for calculations that are more complicated
 square_root = math.sqrt(25)
 print("Square Root Result:", square_root)
 
