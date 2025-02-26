@@ -1,6 +1,6 @@
 # Addition: Adds numbers together
 addition = 5 + 5
-print("Addition Result:", addition)
+print(f"Addition Result:{addition}")
 
 # Subtraction: Subtracts the 2nd number from the 1st number
 subtraction = 5 - 5
