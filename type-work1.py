@@ -21,7 +21,3 @@ print("This is a double:", double)
 # Char: A string but with only one character
 char = 'A'
 print("This is a char:", char)
-<<<<<<< HEAD
-
-=======
->>>>>>> b2e343c041a03e309b5a60860c57f0cfc0b941aa
